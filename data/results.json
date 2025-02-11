@@ -838,5 +838,164 @@
                 }
             ]
         ]
+    },
+    {
+        "resume_data": {
+            "name": "Unknown",
+            "email": "darshavardhan758@gmail.com",
+            "skills": [
+                "git",
+                "blockchain",
+                "pandas",
+                "algorithms",
+                "sql",
+                "python",
+                "tableau",
+                "java"
+            ],
+            "experience": "Unknown"
+        },
+        "job_matches": [
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.4741336405277252
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.36284369230270386
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.3464350700378418
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3453105688095093
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3441495895385742
+            },
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.3315791189670563
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.32931575179100037
+            },
+            {
+                "Job Title": "Senior Software Engineer",
+                "Cosine Similarity": 0.3239736258983612
+            },
+            {
+                "Job Title": "Software Engineer - .Net",
+                "Cosine Similarity": 0.3216973841190338
+            },
+            {
+                "Job Title": "Software Engineer/Senior Software Engineer - Java/OOPS",
+                "Cosine Similarity": 0.3208863437175751
+            }
+        ],
+        "skill_gaps": [
+            "machine learning",
+            "tensorflow",
+            "pytorch",
+            "numpy",
+            "scikit-learn",
+            "mongodb",
+            "data visualization",
+            "computer vision",
+            "deep learning",
+            "power bi",
+            "data analysis"
+        ],
+        "resume_suggestions": [
+            [
+                "You are missing key skills required for your desired roles: machine learning, tensorflow, pytorch, numpy, scikit-learn, mongodb, data visualization, computer vision, deep learning, power bi, data analysis. Consider learning these through online courses, certifications, or projects.",
+                "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+                "Consider adding your educational background. Recruiters often look for degrees and certifications relevant to the job role.",
+                "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+            ],
+            [
+                {
+                    "skill": "machine learning",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/intro-to-machine-learning"
+                    ]
+                },
+                {
+                    "skill": "tensorflow",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "pytorch",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "numpy",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "scikit-learn",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "mongodb",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data visualization",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/data-visualization"
+                    ]
+                },
+                {
+                    "skill": "computer vision",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "deep learning",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/deep-learning"
+                    ]
+                },
+                {
+                    "skill": "power bi",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data analysis",
+                    "label": "Missing skill found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/pandas"
+                    ]
+                }
+            ]
+        ]
     }
 ]
