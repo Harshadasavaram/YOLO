@@ -1,0 +1,374 @@
+[
+    {
+        "title": "Software Engineer",
+        "company": "Teradata",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Analyst",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Embedded Software Engineer -",
+        "company": "Aricent",
+        "location": "India",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Director of Software Engineering",
+        "company": "Searce",
+        "location": "Pune, Maharashtra",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineer - DevOps",
+        "company": "own world",
+        "location": "India",
+        "missing_skills": [
+            {
+                "skill": "devops",
+                "resource": "https://www.udemy.com/course/devops/"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Manager - Software Engineering",
+        "company": "NPS Prism",
+        "location": "India",
+        "missing_skills": []
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "HME",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Manager",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineer - Frontend",
+        "company": "XHire.One",
+        "location": "Mumbai, Maharashtra",
+        "missing_skills": [
+            {
+                "skill": "react",
+                "resource": "https://reactjs.org/tutorial/tutorial.html"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineer - C++",
+        "company": "Aricent",
+        "location": "India",
+        "missing_skills": [
+            {
+                "skill": "c++",
+                "resource": "https://www.udemy.com/course/cpp-beginner-to-expert/"
+            }
+        ]
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": [
+            {
+                "skill": "javascript",
+                "resource": "https://www.udemy.com/course/javascript-basics"
+            },
+            {
+                "skill": "react",
+                "resource": "https://reactjs.org/tutorial/tutorial.html"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": [
+            {
+                "skill": "aws",
+                "resource": "https://aws.amazon.com/training/"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineer - C++",
+        "company": "e-Hireo Global Solutions",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": [
+            {
+                "skill": "c++",
+                "resource": "https://www.udemy.com/course/cpp-beginner-to-expert/"
+            },
+            {
+                "skill": "data structures",
+                "resource": "https://www.coursera.org/specializations/data-structures-algorithms"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineering Principal",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Principal Software Engineer",
+        "company": "Mastercard",
+        "location": "Khadki, Pune",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Analyst",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Senior software engineer",
+        "company": "Kenvue",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineer - APIGEE",
+        "company": "iXceed Solutions",
+        "location": "Chennai, Tamil Nadu",
+        "missing_skills": []
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "ANSR Summit Consulting",
+        "location": "Gurgaon, Haryana",
+        "missing_skills": []
+    },
+    {
+        "title": "Principal Software Engineer",
+        "company": "ANSR Summit Consulting",
+        "location": "Gurgaon, Haryana",
+        "missing_skills": []
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Corpxcel Consulting",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": [
+            {
+                "skill": "aws",
+                "resource": "https://aws.amazon.com/training/"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineer - Java",
+        "company": "COGNITUD ADVISORY SERVICES PRIVATE LIMITED",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Futurestep Recruitment Services Private Limited",
+        "location": "India",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineer - DevOps",
+        "company": "NPG Consultants",
+        "location": "Delhi, India",
+        "missing_skills": [
+            {
+                "skill": "devops",
+                "resource": "https://www.udemy.com/course/devops/"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineer - DevOps",
+        "company": "Anveta",
+        "location": "Mumbai, Maharashtra",
+        "missing_skills": [
+            {
+                "skill": "devops",
+                "resource": "https://www.udemy.com/course/devops/"
+            }
+        ]
+    },
+    {
+        "title": "Software Engineer - Java",
+        "company": "Paddlelift",
+        "location": "India",
+        "missing_skills": []
+    },
+    {
+        "title": "Manager - Software Engineering",
+        "company": "tagged",
+        "location": "India",
+        "missing_skills": []
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "BBY India",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "BBY India",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "BBY India",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "ANSR Summit Consulting",
+        "location": "Gurgaon, Haryana",
+        "missing_skills": []
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": [
+            {
+                "skill": "javascript",
+                "resource": "https://www.udemy.com/course/javascript-basics"
+            }
+        ]
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "BBY India",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Software Engineering Advisor",
+        "company": "Evernorth",
+        "location": "Hyderabad, Telangana",
+        "missing_skills": []
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": [
+            {
+                "skill": "javascript",
+                "resource": "https://www.udemy.com/course/javascript-basics"
+            },
+            {
+                "skill": "react",
+                "resource": "https://reactjs.org/tutorial/tutorial.html"
+            }
+        ]
+    },
+    {
+        "title": "DigiCert - Manager - Software Engineering",
+        "company": "DigiCert",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "DigiCert - Software Engineering Manager",
+        "company": "DigiCert",
+        "location": "Bangalore, Karnataka",
+        "missing_skills": []
+    },
+    {
+        "title": "UI Software Engineer - Javascript",
+        "company": "HyrEzy Talent Solutions",
+        "location": "India",
+        "missing_skills": [
+            {
+                "skill": "big data",
+                "resource": "https://www.edx.org/course/big-data-fundamentals"
+            }
+        ]
+    }
+]

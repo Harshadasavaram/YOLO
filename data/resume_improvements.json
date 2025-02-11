@@ -1,0 +1,161 @@
+{
+    "skills_found": [],
+    "missing_skills": [
+        "aws",
+        "javascript",
+        "data structures",
+        "big data",
+        "devops",
+        "c++",
+        "react"
+    ],
+    "resume_suggestions": [
+        "Your resume has fewer skills listed. Consider adding more to showcase your expertise.",
+        "You are missing key skills required for your desired roles: aws, javascript, data structures, big data, devops, c++, react. Consider learning these through online courses, certifications, or projects.",
+        "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+        "Your resume includes education details: GIT & GitHub\n\nLibraries, Vellore Institute of Technology, Remote\n\n\u2022\n\nCollaborated, MATLAB, Integrated M.Tech Computer Science and Engineering, Topics Extraction Using Machine Learning, IPL, SQL, Power Query, HTML, Google Data Analytics Coursera, CSS, CERTIFICATIONS, MPC, IPL Data Analysis Dashboard, TF, BeautifulSoup\n\nData Analytics Tools, MS-Excel, NLP, retention.\u2022 Integrated, Tableau, Power BI, Power BI. Ensure they are formatted properly.",
+        "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+    ],
+    "matched_jobs": [
+        {
+            "title": "Software Engineer",
+            "company": "Teradata",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/5010622321?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=4633DE72EC4FC08A34188DFFB345B4B167C3B053",
+            "similarity_score": 0.36
+        },
+        {
+            "title": "Software Engineer - Java",
+            "company": "COGNITUD ADVISORY SERVICES PRIVATE LIMITED",
+            "location": "Bangalore, Karnataka",
+            "url": "https://www.adzuna.in/land/ad/5021502670?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=F7C5E33EDF7755E2897B46F6E2679E8943B0F036",
+            "similarity_score": 0.31
+        },
+        {
+            "title": "Software Engineer - APIGEE",
+            "company": "iXceed Solutions",
+            "location": "Chennai, Tamil Nadu",
+            "url": "https://www.adzuna.in/land/ad/4960328516?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=E6F6863A075274DF8F40C67E611F3BB2FFA4A2D7",
+            "similarity_score": 0.3
+        },
+        {
+            "title": "Software Engineer - Java",
+            "company": "Paddlelift",
+            "location": "India",
+            "url": "https://www.adzuna.in/land/ad/5021502693?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=D359C6069DB428BB0FE69B1A0CC2A0E9533E7A16",
+            "similarity_score": 0.29
+        },
+        {
+            "title": "Software Engineering Advisor",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/5001721129?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=731585971377491CD6AF57711EFC5FA12D62E857",
+            "similarity_score": 0.28
+        },
+        {
+            "title": "Software Engineer - DevOps",
+            "company": "Anveta",
+            "location": "Mumbai, Maharashtra",
+            "url": "https://www.adzuna.in/land/ad/4989987941?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=4DD8FB892C71CAD67A1D759CED020CD622D661DA",
+            "similarity_score": 0.28
+        },
+        {
+            "title": "UI Software Engineer - Javascript",
+            "company": "HyrEzy Talent Solutions",
+            "location": "India",
+            "url": "https://www.adzuna.in/land/ad/5018888369?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=D40724B5B1B868836C98673F477493253CED5043",
+            "similarity_score": 0.28
+        },
+        {
+            "title": "Software Engineering Advisor",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/4963670584?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=7195E5C410ADC03013257F0E9D62D79A85806A6D",
+            "similarity_score": 0.27
+        },
+        {
+            "title": "Software Engineer - DevOps",
+            "company": "NPG Consultants",
+            "location": "Delhi, India",
+            "url": "https://www.adzuna.in/land/ad/5021502770?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=8ADE33D1327D47675F497AD4696A7BB79DFD9BD5",
+            "similarity_score": 0.27
+        },
+        {
+            "title": "Software Engineering Advisor",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/5018115576?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=8D0E928BF353ABAB5AF41A153AB53E1E52135F3F",
+            "similarity_score": 0.26
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "Corpxcel Consulting",
+            "location": "Bangalore, Karnataka",
+            "url": "https://www.adzuna.in/land/ad/4976136769?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=C1F405CEAEE997C84888F3F740A0A41BED55B990",
+            "similarity_score": 0.26
+        },
+        {
+            "title": "Software Engineering Analyst",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/4951248615?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=E38F644C895CC0BC4943D484B1123B832D4B6061",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineer - C++",
+            "company": "e-Hireo Global Solutions",
+            "location": "Bangalore, Karnataka",
+            "url": "https://www.adzuna.in/land/ad/5018888913?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=607F2EB6CA456CE5E62C2C54F6C3EC6D6EECEA3A",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineering Analyst",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/5009625602?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=BC3B30878E87FF8C8789F5231862E4C3A255D9E9",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineering Advisor",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/5013873090?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=B6378E709347721F6D7876C42FF36D04EB002645",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineer II",
+            "company": "BBY India",
+            "location": "Bangalore, Karnataka",
+            "url": "https://www.adzuna.in/land/ad/4956248562?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=F2EC398F9BE7DAA21A578188FFD16375AB2A55DB",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineering Advisor",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/5013873325?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=440D5B5E088B230453DBB8D1401B7F37AB2AB1FF",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineering Advisor",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/5006473500?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=4A54B8767B56F314C15C53777E169C1D67F70490",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineer II",
+            "company": "BBY India",
+            "location": "Bangalore, Karnataka",
+            "url": "https://www.adzuna.in/land/ad/4947201355?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=951F04EC06E94F8CDEC0D7FB89E54F614B290893",
+            "similarity_score": 0.25
+        },
+        {
+            "title": "Software Engineering Advisor",
+            "company": "Evernorth",
+            "location": "Hyderabad, Telangana",
+            "url": "https://www.adzuna.in/land/ad/4947202184?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=6E2F05E78B9132FD61BD0BEF75E44814A3CB1051",
+            "similarity_score": 0.24
+        }
+    ]
+}

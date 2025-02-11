@@ -1,0 +1,842 @@
+[
+    {
+        "resume_data": {
+            "name": "Unknown",
+            "email": "darshavardhan758@gmail.com",
+            "skills": [
+                "python",
+                "pandas",
+                "java",
+                "git",
+                "tableau",
+                "algorithms",
+                "sql",
+                "blockchain"
+            ],
+            "experience": "Unknown"
+        },
+        "job_matches": [
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.4741336405277252
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.36284369230270386
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.3464350700378418
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3453105688095093
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3441495895385742
+            },
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.3315791189670563
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.32931575179100037
+            },
+            {
+                "Job Title": "Senior Software Engineer",
+                "Cosine Similarity": 0.3239736258983612
+            },
+            {
+                "Job Title": "Software Engineer - .Net",
+                "Cosine Similarity": 0.3216973841190338
+            },
+            {
+                "Job Title": "Software Engineer/Senior Software Engineer - Java/OOPS",
+                "Cosine Similarity": 0.3208863437175751
+            }
+        ],
+        "skill_gaps": [
+            "machine learning",
+            "deep learning",
+            "mongodb",
+            "pytorch",
+            "data visualization",
+            "tensorflow",
+            "data analysis",
+            "scikit-learn",
+            "numpy",
+            "power bi",
+            "computer vision"
+        ],
+        "resume_suggestions": [
+            "You are missing key skills required for your desired roles: machine learning, deep learning, mongodb, pytorch, data visualization, tensorflow, data analysis, scikit-learn, numpy, power bi, computer vision. Consider learning these through online courses, certifications, or projects.",
+            "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+            "Consider adding your educational background. Recruiters often look for degrees and certifications relevant to the job role.",
+            "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+        ]
+    },
+    {
+        "resume_data": {
+            "name": "Unknown",
+            "email": "darshavardhan758@gmail.com",
+            "skills": [
+                "sql",
+                "tableau",
+                "blockchain",
+                "algorithms",
+                "java",
+                "pandas",
+                "git",
+                "python"
+            ],
+            "experience": "Unknown"
+        },
+        "job_matches": [
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.4741336405277252
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.36284369230270386
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.3464350700378418
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3453105688095093
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3441495895385742
+            },
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.3315791189670563
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.32931575179100037
+            },
+            {
+                "Job Title": "Senior Software Engineer",
+                "Cosine Similarity": 0.3239736258983612
+            },
+            {
+                "Job Title": "Software Engineer - .Net",
+                "Cosine Similarity": 0.3216973841190338
+            },
+            {
+                "Job Title": "Software Engineer/Senior Software Engineer - Java/OOPS",
+                "Cosine Similarity": 0.3208863437175751
+            }
+        ],
+        "skill_gaps": [
+            "power bi",
+            "scikit-learn",
+            "data visualization",
+            "mongodb",
+            "deep learning",
+            "computer vision",
+            "data analysis",
+            "numpy",
+            "pytorch",
+            "tensorflow",
+            "machine learning"
+        ],
+        "resume_suggestions": [
+            [
+                "You are missing key skills required for your desired roles: power bi, scikit-learn, data visualization, mongodb, deep learning, computer vision, data analysis, numpy, pytorch, tensorflow, machine learning. Consider learning these through online courses, certifications, or projects.",
+                "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+                "Consider adding your educational background. Recruiters often look for degrees and certifications relevant to the job role.",
+                "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+            ],
+            [
+                {
+                    "skill": "power bi",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "scikit-learn",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data visualization",
+                    "resources": [
+                        "https://www.kaggle.com/learn/data-visualization"
+                    ]
+                },
+                {
+                    "skill": "mongodb",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "deep learning",
+                    "resources": [
+                        "https://www.kaggle.com/learn/deep-learning"
+                    ]
+                },
+                {
+                    "skill": "computer vision",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data analysis",
+                    "resources": [
+                        "https://www.kaggle.com/learn/pandas"
+                    ]
+                },
+                {
+                    "skill": "numpy",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "pytorch",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "tensorflow",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "machine learning",
+                    "resources": [
+                        "https://www.kaggle.com/learn/intro-to-machine-learning"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "resume_data": {
+            "name": "Unknown",
+            "email": "darshavardhan758@gmail.com",
+            "skills": [
+                "sql",
+                "tableau",
+                "blockchain",
+                "algorithms",
+                "java",
+                "pandas",
+                "git",
+                "python"
+            ],
+            "experience": "Unknown"
+        },
+        "job_matches": [
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.4741336405277252
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.36284369230270386
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.3464350700378418
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3453105688095093
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3441495895385742
+            },
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.3315791189670563
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.32931575179100037
+            },
+            {
+                "Job Title": "Senior Software Engineer",
+                "Cosine Similarity": 0.3239736258983612
+            },
+            {
+                "Job Title": "Software Engineer - .Net",
+                "Cosine Similarity": 0.3216973841190338
+            },
+            {
+                "Job Title": "Software Engineer/Senior Software Engineer - Java/OOPS",
+                "Cosine Similarity": 0.3208863437175751
+            }
+        ],
+        "skill_gaps": [
+            "power bi",
+            "scikit-learn",
+            "data visualization",
+            "mongodb",
+            "deep learning",
+            "computer vision",
+            "data analysis",
+            "numpy",
+            "pytorch",
+            "tensorflow",
+            "machine learning"
+        ],
+        "resume_suggestions": [
+            [
+                "You are missing key skills required for your desired roles: power bi, scikit-learn, data visualization, mongodb, deep learning, computer vision, data analysis, numpy, pytorch, tensorflow, machine learning. Consider learning these through online courses, certifications, or projects.",
+                "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+                "Consider adding your educational background. Recruiters often look for degrees and certifications relevant to the job role.",
+                "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+            ],
+            [
+                {
+                    "skill": "power bi",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "scikit-learn",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data visualization",
+                    "resources": [
+                        "https://www.kaggle.com/learn/data-visualization"
+                    ]
+                },
+                {
+                    "skill": "mongodb",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "deep learning",
+                    "resources": [
+                        "https://www.kaggle.com/learn/deep-learning"
+                    ]
+                },
+                {
+                    "skill": "computer vision",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data analysis",
+                    "resources": [
+                        "https://www.kaggle.com/learn/pandas"
+                    ]
+                },
+                {
+                    "skill": "numpy",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "pytorch",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "tensorflow",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "machine learning",
+                    "resources": [
+                        "https://www.kaggle.com/learn/intro-to-machine-learning"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "resume_data": {
+            "name": "Unknown",
+            "email": "darshavardhan758@gmail.com",
+            "skills": [
+                "sql",
+                "tableau",
+                "blockchain",
+                "algorithms",
+                "java",
+                "pandas",
+                "git",
+                "python"
+            ],
+            "experience": "Unknown"
+        },
+        "job_matches": [
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.4741336405277252
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.36284369230270386
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.3464350700378418
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3453105688095093
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3441495895385742
+            },
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.3315791189670563
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.32931575179100037
+            },
+            {
+                "Job Title": "Senior Software Engineer",
+                "Cosine Similarity": 0.3239736258983612
+            },
+            {
+                "Job Title": "Software Engineer - .Net",
+                "Cosine Similarity": 0.3216973841190338
+            },
+            {
+                "Job Title": "Software Engineer/Senior Software Engineer - Java/OOPS",
+                "Cosine Similarity": 0.3208863437175751
+            }
+        ],
+        "skill_gaps": [
+            "power bi",
+            "scikit-learn",
+            "data visualization",
+            "mongodb",
+            "deep learning",
+            "computer vision",
+            "data analysis",
+            "numpy",
+            "pytorch",
+            "tensorflow",
+            "machine learning"
+        ],
+        "resume_suggestions": [
+            [
+                "You are missing key skills required for your desired roles: power bi, scikit-learn, data visualization, mongodb, deep learning, computer vision, data analysis, numpy, pytorch, tensorflow, machine learning. Consider learning these through online courses, certifications, or projects.",
+                "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+                "Consider adding your educational background. Recruiters often look for degrees and certifications relevant to the job role.",
+                "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+            ],
+            [
+                {
+                    "skill": "power bi",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "scikit-learn",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data visualization",
+                    "resources": [
+                        "https://www.kaggle.com/learn/data-visualization"
+                    ]
+                },
+                {
+                    "skill": "mongodb",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "deep learning",
+                    "resources": [
+                        "https://www.kaggle.com/learn/deep-learning"
+                    ]
+                },
+                {
+                    "skill": "computer vision",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data analysis",
+                    "resources": [
+                        "https://www.kaggle.com/learn/pandas"
+                    ]
+                },
+                {
+                    "skill": "numpy",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "pytorch",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "tensorflow",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "machine learning",
+                    "resources": [
+                        "https://www.kaggle.com/learn/intro-to-machine-learning"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "resume_data": {
+            "name": "Unknown",
+            "email": "darshavardhan758@gmail.com",
+            "skills": [
+                "algorithms",
+                "python",
+                "blockchain",
+                "git",
+                "tableau",
+                "pandas",
+                "java",
+                "sql"
+            ],
+            "experience": "Unknown"
+        },
+        "job_matches": [
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.4741336405277252
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.36284369230270386
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.3464350700378418
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3453105688095093
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3441495895385742
+            },
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.3315791189670563
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.32931575179100037
+            },
+            {
+                "Job Title": "Senior Software Engineer",
+                "Cosine Similarity": 0.3239736258983612
+            },
+            {
+                "Job Title": "Software Engineer - .Net",
+                "Cosine Similarity": 0.3216973841190338
+            },
+            {
+                "Job Title": "Software Engineer/Senior Software Engineer - Java/OOPS",
+                "Cosine Similarity": 0.3208863437175751
+            }
+        ],
+        "skill_gaps": [
+            "machine learning",
+            "power bi",
+            "tensorflow",
+            "deep learning",
+            "mongodb",
+            "data analysis",
+            "pytorch",
+            "computer vision",
+            "scikit-learn",
+            "numpy",
+            "data visualization"
+        ],
+        "resume_suggestions": [
+            [
+                "You are missing key skills required for your desired roles: machine learning, power bi, tensorflow, deep learning, mongodb, data analysis, pytorch, computer vision, scikit-learn, numpy, data visualization. Consider learning these through online courses, certifications, or projects.",
+                "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+                "Consider adding your educational background. Recruiters often look for degrees and certifications relevant to the job role.",
+                "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+            ],
+            [
+                {
+                    "skill": "machine learning",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/intro-to-machine-learning"
+                    ]
+                },
+                {
+                    "skill": "power bi",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "tensorflow",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "deep learning",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/deep-learning"
+                    ]
+                },
+                {
+                    "skill": "mongodb",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data analysis",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/pandas"
+                    ]
+                },
+                {
+                    "skill": "pytorch",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "computer vision",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "scikit-learn",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "numpy",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data visualization",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/data-visualization"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "resume_data": {
+            "name": "Unknown",
+            "email": "darshavardhan758@gmail.com",
+            "skills": [
+                "blockchain",
+                "java",
+                "tableau",
+                "sql",
+                "python",
+                "pandas",
+                "algorithms",
+                "git"
+            ],
+            "experience": "Unknown"
+        },
+        "job_matches": [
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.4741336405277252
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.36284369230270386
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.3464350700378418
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3453105688095093
+            },
+            {
+                "Job Title": "Software Engineer - Java",
+                "Cosine Similarity": 0.3441495895385742
+            },
+            {
+                "Job Title": "Software Engineer",
+                "Cosine Similarity": 0.3315791189670563
+            },
+            {
+                "Job Title": "Software Engineer - DevOps",
+                "Cosine Similarity": 0.32931575179100037
+            },
+            {
+                "Job Title": "Senior Software Engineer",
+                "Cosine Similarity": 0.3239736258983612
+            },
+            {
+                "Job Title": "Software Engineer - .Net",
+                "Cosine Similarity": 0.3216973841190338
+            },
+            {
+                "Job Title": "Software Engineer/Senior Software Engineer - Java/OOPS",
+                "Cosine Similarity": 0.3208863437175751
+            }
+        ],
+        "skill_gaps": [
+            "scikit-learn",
+            "computer vision",
+            "numpy",
+            "machine learning",
+            "pytorch",
+            "data visualization",
+            "data analysis",
+            "deep learning",
+            "tensorflow",
+            "mongodb",
+            "power bi"
+        ],
+        "resume_suggestions": [
+            [
+                "You are missing key skills required for your desired roles: scikit-learn, computer vision, numpy, machine learning, pytorch, data visualization, data analysis, deep learning, tensorflow, mongodb, power bi. Consider learning these through online courses, certifications, or projects.",
+                "Python is a highly sought-after skill. If you know it, explicitly mention it in your resume.",
+                "Consider adding your educational background. Recruiters often look for degrees and certifications relevant to the job role.",
+                "Your resume includes work experience. Ensure it's structured with bullet points highlighting key achievements."
+            ],
+            [
+                {
+                    "skill": "scikit-learn",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "computer vision",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "numpy",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "machine learning",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/intro-to-machine-learning"
+                    ]
+                },
+                {
+                    "skill": "pytorch",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "data visualization",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/data-visualization"
+                    ]
+                },
+                {
+                    "skill": "data analysis",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/pandas"
+                    ]
+                },
+                {
+                    "skill": "deep learning",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/deep-learning"
+                    ]
+                },
+                {
+                    "skill": "tensorflow",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "mongodb",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                },
+                {
+                    "skill": "power bi",
+                    "label": "Missing skills found in your resume",
+                    "resources": [
+                        "https://www.kaggle.com/learn/courses"
+                    ]
+                }
+            ]
+        ]
+    }
+]

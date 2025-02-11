@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Senior Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/5000431862?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=7C7461600496913B199CB7EDEF7AA26E1B841679",
+        "cosine_similarity": 0.7248399257659912,
+        "jaccard_similarity": 0.030303030303030304,
+        "tfidf_similarity": 0.12603852971903973
+    },
+    {
+        "title": "UI Software Engineer - Javascript",
+        "company": "HyrEzy Talent Solutions",
+        "location": "India",
+        "url": "https://www.adzuna.in/land/ad/5018888369?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=D40724B5B1B868836C98673F477493253CED5043",
+        "cosine_similarity": 0.7210522294044495,
+        "jaccard_similarity": 0.05194805194805195,
+        "tfidf_similarity": 0.1708210297769166
+    },
+    {
+        "title": "Software Engineer - DevOps",
+        "company": "Anveta",
+        "location": "Mumbai, Maharashtra",
+        "url": "https://www.adzuna.in/land/ad/4989987941?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=4DD8FB892C71CAD67A1D759CED020CD622D661DA",
+        "cosine_similarity": 0.7206030488014221,
+        "jaccard_similarity": 0.01282051282051282,
+        "tfidf_similarity": 0.07370976926240637
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/4990135566?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=537B6C29E57B543EBD85C179B117F4F28654D19F",
+        "cosine_similarity": 0.7199758887290955,
+        "jaccard_similarity": 0.03896103896103896,
+        "tfidf_similarity": 0.16329325734438666
+    },
+    {
+        "title": "Embedded Software Engineer -",
+        "company": "Aricent",
+        "location": "India",
+        "url": "https://www.adzuna.in/land/ad/5007291885?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=7DA86FDCCC9957AABCDDEDCAB1FC66ECF2B70326",
+        "cosine_similarity": 0.7131658792495728,
+        "jaccard_similarity": 0.008333333333333333,
+        "tfidf_similarity": 0.05267725857654998
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Futurestep Recruitment Services Private Limited",
+        "location": "India",
+        "url": "https://www.adzuna.in/land/ad/5021502825?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=4FA16DFF2037E65D98F5F1B7E081676A317A49DD",
+        "cosine_similarity": 0.7128915190696716,
+        "jaccard_similarity": 0.012552301255230125,
+        "tfidf_similarity": 0.07449475310669924
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/4990135542?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=B09D67552BAFB5E777AC12842E58F99CA4708187",
+        "cosine_similarity": 0.712104856967926,
+        "jaccard_similarity": 0.030042918454935622,
+        "tfidf_similarity": 0.1287308456839153
+    },
+    {
+        "title": "Software Engineer - Frontend",
+        "company": "XHire.One",
+        "location": "Mumbai, Maharashtra",
+        "url": "https://www.adzuna.in/land/ad/4989988211?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=28EB2FD1C5D862243D97F23517351EC02C9C59A3",
+        "cosine_similarity": 0.7103189826011658,
+        "jaccard_similarity": 0.025423728813559324,
+        "tfidf_similarity": 0.08384475570422795
+    },
+    {
+        "title": "Manager - Software Engineering",
+        "company": "NPS Prism",
+        "location": "India",
+        "url": "https://www.adzuna.in/land/ad/5006135036?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=24B4D26753C4FB44DF125960584D6E48AF38E919",
+        "cosine_similarity": 0.7098239660263062,
+        "jaccard_similarity": 0.017391304347826087,
+        "tfidf_similarity": 0.06518553231405458
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "BBY India",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/4956248562?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=F2EC398F9BE7DAA21A578188FFD16375AB2A55DB",
+        "cosine_similarity": 0.7097628116607666,
+        "jaccard_similarity": 0.030042918454935622,
+        "tfidf_similarity": 0.11260778266260951
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "BBY India",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/4947201355?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=951F04EC06E94F8CDEC0D7FB89E54F614B290893",
+        "cosine_similarity": 0.7097628116607666,
+        "jaccard_similarity": 0.030042918454935622,
+        "tfidf_similarity": 0.11260778266260951
+    },
+    {
+        "title": "Software Engineer - Java",
+        "company": "Paddlelift",
+        "location": "India",
+        "url": "https://www.adzuna.in/land/ad/5021502693?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=D359C6069DB428BB0FE69B1A0CC2A0E9533E7A16",
+        "cosine_similarity": 0.708760678768158,
+        "jaccard_similarity": 0.01702127659574468,
+        "tfidf_similarity": 0.12892418480425014
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Teradata",
+        "location": "Hyderabad, Telangana",
+        "url": "https://www.adzuna.in/land/ad/5010622321?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=4633DE72EC4FC08A34188DFFB345B4B167C3B053",
+        "cosine_similarity": 0.7070713639259338,
+        "jaccard_similarity": 0.02127659574468085,
+        "tfidf_similarity": 0.10086158948943502
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "BBY India",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/4948421027?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=9DC6F556CE23470EA5AEA32A7466858327AA183B",
+        "cosine_similarity": 0.7029805183410645,
+        "jaccard_similarity": 0.016736401673640166,
+        "tfidf_similarity": 0.11751368254997423
+    },
+    {
+        "title": "Software Engineer - Java",
+        "company": "COGNITUD ADVISORY SERVICES PRIVATE LIMITED",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/5021502670?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=F7C5E33EDF7755E2897B46F6E2679E8943B0F036",
+        "cosine_similarity": 0.7019468545913696,
+        "jaccard_similarity": 0.02564102564102564,
+        "tfidf_similarity": 0.0905474662022132
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Ferguson",
+        "location": "Bangalore, Karnataka",
+        "url": "https://www.adzuna.in/land/ad/5006473521?se=mB93KzTa7xG-r4ZSfONlkQ&utm_medium=api&utm_source=bfb2e568&v=54282F8944C0D27BE9109DDE3581FD21E60DF9EE",
+        "cosine_similarity": 0.7003762125968933,
+        "jaccard_similarity": 0.02100840336134454,
+        "tfidf_similarity": 0.07512828019003712
+    }
+]
